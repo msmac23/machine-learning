@@ -1,6 +1,7 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Car Price Prediction App ML Project
 ```
-⬆️ (Replace above with your app's name)
+
+⬆️ A machine learning app to predict the prices of used vehicles listed on Craigslist across the United States.)
 ```
 
 Description of the app ...
